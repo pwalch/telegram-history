@@ -1,3 +1,7 @@
+#
+# Script to analyse a CSV file produced by the history downloader.
+# Usage: python3 history_analyzer.py "history_pierre.csv"
+#
 
 import datetime
 import csv
